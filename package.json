@@ -1,0 +1,23 @@
+{
+  "name": "discord-js",
+  "version": "1.0.0",
+  "description": "Discord BOT",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "mongoose": "^4.11.5",
+    "opusscript": "0.0.3",
+    "request": "^2.81.0",
+    "ytdl-core": "^0.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DiscordBOT"
+  ],
+  "author": "Yuko",
+  "license": "ISC"
+}
